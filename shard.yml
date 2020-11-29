@@ -1,0 +1,13 @@
+name: cleave
+version: 0.1.0
+
+authors:
+  - Who23 <contactwho23@gmail.com>
+
+targets:
+  cleave:
+    main: src/cleave.cr
+
+crystal: 0.35.1
+
+license: MIT
